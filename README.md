@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
+# Create by
+
+Yader Antonio Somarriba Escobar
+
 # Comments
 
 This project is a basic crud in which we are modeling the periodic table. The basic steps to interact with the application are the following:
